@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912970164639",
+    "project_id": "fbirderappsumeet",
+    "storage_bucket": "fbirderappsumeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912970164639:android:1d9f4889ed50b62b0375aa",
+        "android_client_info": {
+          "package_name": "com.sumeet.birderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912970164639-5houflmj878a8a0ln4b9j8k06v53c48n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8bwtEyznNWi8olSVZoaLTAQAouJQCNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912970164639-5houflmj878a8a0ln4b9j8k06v53c48n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
